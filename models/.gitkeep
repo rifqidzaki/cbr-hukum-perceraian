@@ -1,0 +1,2 @@
+# Menjaga folder models agar tetap terlacak oleh sistem berkas / Git.
+# Tempatkan berkas model tersimpan (seperti .pkl, .bin, tokenizer, dll.) di sini.

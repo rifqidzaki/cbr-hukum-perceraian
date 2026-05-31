@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
+
+# Ignore logs if you don't want them tracked
+# logs/cleaning.log

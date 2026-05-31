@@ -1,0 +1,22 @@
+[
+    {
+        "query": "suami selalu kasar dan tidak memberi nafkah secara lahir batin",
+        "ground_truth_case_id": "case_009"
+    },
+    {
+        "query": "perselisihan terus menerus akibat masalah ekonomi dan utang piutang",
+        "ground_truth_case_id": "case_042"
+    },
+    {
+        "query": "suami pergi meninggalkan istri dan anak pisah rumah selama 2 tahun",
+        "ground_truth_case_id": "case_023"
+    },
+    {
+        "query": "terjadi kekerasan dalam rumah tangga fisik pukulan oleh suami",
+        "ground_truth_case_id": "case_002"
+    },
+    {
+        "query": "suami sering mabuk dan berjudi sehingga istri tidak tahan",
+        "ground_truth_case_id": "case_031"
+    }
+]

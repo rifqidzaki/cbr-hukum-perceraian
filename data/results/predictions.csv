@@ -1,0 +1,6 @@
+query_id,predicted_solution,top_5_case_ids
+Q1,dikabulkan,"case_021,case_009,case_002,case_001,case_025"
+Q2,dikabulkan,"case_041,case_021,case_044,case_016,case_028"
+Q3,dikabulkan,"case_040,case_019,case_014,case_013,case_017"
+Q4,dikabulkan,"case_002,case_030,case_011,case_031,case_045"
+Q5,dikabulkan,"case_042,case_020,case_034,case_021,case_035"

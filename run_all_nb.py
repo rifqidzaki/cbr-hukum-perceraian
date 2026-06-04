@@ -4,6 +4,9 @@ import sys
 import os
 
 notebooks = [
+    # Catatan: 01_Membangun_Case_Base.ipynb dilewati (skipped) karena
+    # proses NLP cleaning dan Sastrawi stemming memakan waktu lama (>10 menit).
+    # Jika ada data PDF baru, jalankan notebook 01 secara manual terlebih dahulu.
     "notebooks/02_Case_Representation.ipynb",
     "notebooks/03_retrieval.ipynb",
     "notebooks/04_predict.ipynb",

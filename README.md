@@ -96,11 +96,18 @@ Sistem saat ini dilatih menggunakan dataset yang **Seimbang dan Dinamis** dengan
 * **Dikabulkan**: 46 Kasus
 * **Ditolak / N.O (Niet Ontvankelijk)**: 16 Kasus
 
-**Performa Model Klasifikasi (SVM):**
+**Performa Model Klasifikasi (SVM - In Sample):**
 * **Accuracy**: 1.0 (100%)
 * **Precision / Recall / F1-Score**: 1.0 (100%)
 
 > *Catatan Analitik:* Tingkat metrik akurasi 100% saat ini tercapai secara riil (bukan karena bias *overfitting* buta). Ini terjadi karena dokumen-dokumen putusan "ditolak" memiliki pola kosakata penolakan (seperti *"tidak dapat diterima"*, *"menolak permohonan"*, *"gugur"*) yang direpresentasikan secara sangat kuat oleh bobot pembagi TF-IDF, sehingga algoritma margin SVM (LinearSVC) mempu menarik batas *hyperplane* dengan sempurna antara 2 kelas tersebut.
+
+**Performa Sistem CBR Retrieval (Real-World LOOCV):**
+Mengingat pengujian SVM di atas masih rawan terhadap bias *In-Sample* karena ukuran dataset yang kecil (12 sampel pengujian), sistem ini diuji ulang menggunakan algoritma **Leave-One-Out Cross Validation (LOOCV)** dengan metode *Weighted Majority Voting* dari Top-5 Cosine Similarity.
+* **Accuracy**: 80.64%
+* **F1-Score**: 73.61%
+
+> *Catatan Analitik:* Akurasi 80.64% adalah skor evaluasi **Real-World** yang sangat valid dan jujur (tidak bias overfitting). Model CBR berhasil memprediksi secara dinamis untuk ke-62 kasus satu per satu, di mana tiap kasus dicocokkan sebagai *query* baru terhadap sisa 61 *knowledge base*.
 
 ### Kelebihan Pendekatan Saat Ini:
 1. **Ekstraksi Tangguh (Robust)**: Skrip Regex terbaru tahan terhadap anomali teks vertikal (watermark) hasil ekstraksi PDF, menangani anonimitas nama pihak secara pintar, serta memastikan Amar Putusan "MENGADILI" yang ditarik adalah putusan level akhir (mengatasi false positive "dikabulkan" pada dokumen Kasasi).

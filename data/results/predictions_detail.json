@@ -3,40 +3,40 @@
         "query_id": "Q1",
         "query": "suami tidak memberi nafkah selama 2 tahun",
         "predicted_solution": "dikabulkan",
-        "top_case_ids": "case_002, case_021, case_020, case_025, case_040",
-        "similarity_scores": "0.0474, 0.0467, 0.0279, 0.0263, 0.0238",
+        "top_case_ids": "case_059, case_010, case_024, case_023, case_055",
+        "similarity_scores": "0.0571, 0.0561, 0.0545, 0.0541, 0.0536",
         "svm_prediction": "dikabulkan"
     },
     {
         "query_id": "Q2",
         "query": "terjadi perselisihan terus menerus",
         "predicted_solution": "dikabulkan",
-        "top_case_ids": "case_041, case_016, case_021, case_044, case_028",
-        "similarity_scores": "0.0462, 0.0388, 0.0332, 0.0204, 0.0187",
+        "top_case_ids": "case_060, case_032, case_006, case_022, case_016",
+        "similarity_scores": "0.0439, 0.0388, 0.0341, 0.0325, 0.0316",
         "svm_prediction": "dikabulkan"
     },
     {
         "query_id": "Q3",
         "query": "penggugat meninggalkan rumah",
         "predicted_solution": "dikabulkan",
-        "top_case_ids": "case_040, case_019, case_014, case_020, case_017",
-        "similarity_scores": "0.1035, 0.0956, 0.0921, 0.0904, 0.0828",
+        "top_case_ids": "case_022, case_050, case_016, case_036, case_010",
+        "similarity_scores": "0.0604, 0.0601, 0.0583, 0.0524, 0.0515",
         "svm_prediction": "dikabulkan"
     },
     {
         "query_id": "Q4",
         "query": "terjadi kekerasan rumah tangga dipukul",
         "predicted_solution": "dikabulkan",
-        "top_case_ids": "case_002, case_011, case_007, case_030, case_022",
-        "similarity_scores": "0.0865, 0.0805, 0.0764, 0.0573, 0.0387",
+        "top_case_ids": "case_002, case_012, case_007, case_035, case_033",
+        "similarity_scores": "0.077, 0.0712, 0.065, 0.0644, 0.0592",
         "svm_prediction": "dikabulkan"
     },
     {
         "query_id": "Q5",
         "query": "suami cacat dan istri tidak tahan karena ekonomi",
         "predicted_solution": "dikabulkan",
-        "top_case_ids": "case_042, case_020, case_034, case_035, case_012",
-        "similarity_scores": "0.1132, 0.104, 0.0754, 0.0647, 0.0588",
+        "top_case_ids": "case_052, case_023, case_008, case_014, case_040",
+        "similarity_scores": "0.0983, 0.0838, 0.0762, 0.0747, 0.0714",
         "svm_prediction": "dikabulkan"
     }
 ]

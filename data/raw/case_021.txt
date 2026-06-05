@@ -41,78 +41,73 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a PUTUSAN i
-s
-M Nom or 170/Pdt.G/2026/PA.Wng
-g e
-n
-n
-DEMI KEuADILAN BERDASARKAN KETUHANAN YANG MAHA ESA o
-PENGADILAN AGAMA WONOGIRI
-d
-g
-Memeriksa dan mengadili perkara perdata agama padna tingkat
-A
-pertama yang dilangsungkan secara elektronik telah menjatuhkan putusan
-I
-dalam perkara cerai talak antara:
-h k
-Pemohon, NIK xxxxxxxxxxxxxxxxxxxxx, tempat dan tanggal lahir
 a i
-Wonogiri, 07 November 1995 agalma Islam, pendidikan
-m b
-SLTA, pekerjaan Wiraswasta, bertempat tinggal di
-xxxxxxxxxxxxxxxxxxxxxxuxxx, xxxxxxxxx xxxxxxxx,
-a
-xxxxxxxx xxxx xxxxpxx, dalam hal ini memberi Andhika
-k
-Della Permana Putra, S.H dan Joko Mulyono, S.H
-e
-h a
-merupakan Advokat dan Konsultan Hukum pada Kantor
-R
-a i
-Hukum Andhika Permana Law Office beralamat di Jalan
-s
-M Raya W onogiri-Ponorogo Km.32, Slogohimo, xxxxxxxxx
-g e
-xxxxxxxx, domisili elektronik pada alamat email
-n
-n
-dhiekaperadi17@gmail.com, berdasarkan Surat Kuasa
-o
-u
-Khusus tanggal 08 Januari 2026 yang telah diregister
-gpada Kepaniteraan Pengadilan Agama Wonogiri Nomdor
-39/SKK/2026/PA.Wng, tanggal 15 Januari 2026, snebagai
-A
-Pemohon;
-I
-Lawan
-h k
-Termohon, NIK 3312165511980002, tempat dan tanggal lahir
-a i
-Wonogiri, 15 November 1998, agamla Islam, pendidikan
-m b
-SLTA, pekerjaan xxxxxxxx xxxxxx, bertempat tinggal di
-u
-Setren, RT002 RW008, Desa/Kel. Bugelan, Kec.
-a
-Kismantoro, Kab. Wonopgiri, sebagai Termohon;
-k
-Pengadilan Agama tersebut;
-e
-h a
-Telah mempelajari berkas perkara;
-R
-a i
-Telah mendengar keterangan Pemohon di persidangan; s
+P U T U S A N s
 M
 g e
+Nomor: 48/Pdt.G/2011/PA.Bky
 n
-Hanlaman 1 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+nBISMILLAHIRRAHMANIRRAHIM
+DEMuI KEADILAN BERDASARKAN KETUHANAN YANG MAHA ESA o
+d
+Pgengadilan Agama Bengkayang yang memeriksa dan mengadili perkara tertentu pada
+n
+Atingkat pertama telah menjatuhkan putusan dalam perkara cerai gugat antara :
+I
+U. SARI SAFITRI binti U. HASAN, umur 32 tahun, agama Islam , pendidikan SMP,
+h k
+pekerjaan Swasta, tempat tinggal di Jalan Pramuka , RT.06/ RW. 02,
+a i
+l
+Kelurahan Condong, Kecamatan Singkawang Tengah, Kota
+m b
+Singkawang, sebagai "PENGGUGAT";
+u
+a
+MELAWAN
+p
+k
+KADARUSNO bin SUKADI, umur 3e6 tahun, agama Islam, pendidikan D3, pekerjaan
+h a
+a Swasta, temRpat tinggal di Jalan Pramuka Gg. Darma RT.01 / RW. 01, i
+s
+M No. 16 K elurahan Condong, Kecamatan Singkawang Tengah, Kota
+g e
+Singkawang, sekarang Tergugat berada di Lembaga Pemasyarakatan
+n
+n
+Kelas II Singkawang, sebagai "TERGUGAT";
 o
 u
+Pengadilan Agama tersebut;
+d
+g
+Setelah membaca dan mempelajari berkas perkara; n
+A
+Setelah mendengar keterangan Penggugat dan para saksi; I
+h TENTANG DUDUK PERKARANYA1 k
+a i
+Menimbang, bahwa Penggugat berdasarkan surat gugatannya tertanggal 07 Februari
+l
+m b
+2011 yang terdaftar di Kepaniteraan Pengadilan Agama Bengkayang, dengan Nomor :
+u
+a 48/Pdt.G/2011/PA.Bky, telah mengemukakan hal-hal sebagai berikut :
+p
+k
+1. Bahwa, Penggugat dan Tergugat adalah suami isteri yang menikah pada tanggal 28
+e
+h a
+September 1999, yang tercatat pada Kantor Urusan Agama Kecamatan Roban, Kota
+R
+a i
+Singkawang, sesuai Kutipan Akta Nikah Nomor : 157/07/9/1999, tanggal 08 Oktober s
+M
+g e
+1999;
+n
+n
+1 u 2. Bahwa ... o
 d
 g
 n
@@ -188,74 +183,73 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a Telah memeriksa alat bukti yang diajukan Pemohon; i
+a i
+2. Bahwa, selama dalam pernikahan antara Penggugat dan Tergugat telah dikaruniai dua s
+M
+orang anak, yang bgernama 1. Irene Putri, umur 11 tahun 2. Nur Dwi Oktaviani, umur 6 e
+n
+n
+tahun, sekarang anak tersebut berada dalam asuhan Penggugat;
+o
+u
+3. Bahwa, setelah menikah Penggugat dan Tergugat bertempat tinggal di rumahd orang tua
+g
+Tergugat selama 2 tahun, kemudian pindah ke rumah orang tua Penggnugat di daerah
+A
+Sambas selama 3 tahun selanjutnya kembali lagi ke rumah orang tuaI Tergugat hingga
+h k
+bulan Juli 2010, kemudian pisah rumah, Penggugat pindah ke rumah kontrakan
+a i
+sebagaimana alamat tersebut di atas sedangkan Tergugatl tetap di rumah orang tuanya;
+m b
+4. Bahwa, pada awalnya kehidupan rumah tanugga Penggugat dan Tergugat harmonis
+a
+p
+namun sejak tahun 2005, Penggugat dan Tergugat tidak harmonis sering berselisih dan
+k
+e
+h bertengkar, disebabkan Tergugat menikah lagi dengan perempuan lain tanpa seizin a
+R
+a Penggugat. Selain itu, Tergugat sering main judi dan kecanduan obat-obat terlarang i
 s
-M DUDUK PERKARA
-g e
-Bahwa Pemohon dalam surat permohonannya tanggal 12 Januari n
-n
-2026 yang terdaftar secara elektronik melalui e-court di Kepaniteraan
-o
-u
-Pengadilan Agama Wonogiri Nomor 170/Pdt.G/2026/PA.Wng, tanggal 15
-d
-g
-Januari 2026 , dengan dalil-dalil pada pokoknya sebagai berikut:
-n
-1A. Bahwa Pemohon dan Termohon adalah suami istri yang menikah secara
-sah sebagaimana tercantum dalam Kutipan Akta NikIah Nomor:
-h0086/08/IV/2020 tertanggal, 02 April 2020 yang diterbkitkan oleh Kantor
-a Urusan Agama Kecamatan Kismantoro, xxxxxxxxx xx i xxxxxx;
-l
-2. Bahwa sebelum menikah status Pemohon adalah Jejaka sedangkan
-m b
-Termohon adalah Perawan. Pemohon dan Termohon sudah melakukan
-u
-a hubungan suami istri (Ba'da Dukhul), dan telah di karuniai 1 (satu) orang
-p
-k anak yang bernama, ARDHARA ZAHFATULAISYA (Usia 3th), Jenis
-Kelamin Perempuan, Lahir di Weonogiri, 27 September 2022, yang saat
-h a
-ini berada dalam pengasuhRan Termohon;
-a i
-3. Bahwa Pernikahan antara Pemohon dan Termohon merupakan s
 M
-pernikahan yang digdasari atas perasaan saling cinta antara Kedua Belah e
-Pihak. Pernikahan Pemohon dan Termohon berjalan tentram, harmonis, n
-n
-saling terbuka satu sama lain, saling bertanggung jawab dan hidup damai
-o
-u
-dalam sebuah rumah tangga. Setelah Menikah antara Pemohon dan
-d
-g
-Termohon tinggal bersama dalam satu rumah milik Orangtua Termohon
-n
-Ayang beralamat di Setren, RT002 RW008, Desa/Kel. Bugelan, Kec.
-Kismantoro, Kab. Wonogiri; I
-h4. Bahwa awal cek cok dan pertengkaran yang terjadi antarak Pemohon dan
-aTermohon terjadi sejak kelahiran anaknya di Bulan Dese
-i
-mber 2022, yang
-l
-disebabkan karena Termohon selalu merasa kurang dengan nafkah yang
-m b
-diberikan oleh Pemohon kepada Termohon. Sehingga setiap Pemohon
-u
-a memberikan hasil bekerjanya kepada Termohon, Termohon selalu
-p
-k mencaci dan marah-marah. Disisi lain, mertua yang seharusnya dapat
-menjadi penengah, justru malahe ikut memojokkan Pemohon dan
-h a
-menuntut lebih kepada PemRohon dalam hal memberi nafkah kepada
-a i
-Termohon; s
-M
+(narkoba);
 g e
 n
-Hanlaman 2 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+n
+5. Bahwa, Penggugat dan keluarga Penguggat sudah berusaha untuk menasehati Tergugat
 o
 u
+agar berhenti main judi dan mengkonsumsi narkoba, namun Tergugat tidak mau
+d
+g
+mendengarkan nasehat tersebut;2
+n
+A
+I
+6 . Bahwa, pertengkaran terakhir terjadi pada bulan Juli 2010, penyeb abnya Tergugat
+h k
+ketahuan selingkuh dengan perempuan lain yang bernama IKA yang hal ini Penggugat
+a i
+ketahui dari kawan l Penggugat;
+m b
+u
+7. Bahwa, setelah kejadian tersebut dengan seizin Tergugat, Penggugat pindah rumah ke
+a
+p
+k rumah kontrakan di daerah Condong sebagaimana alamat tersebut di atas dan selama
+e
+h a
+pisah rumah tersebut Penggugat dan Tergugat masih sering berkomunikasi dan
+R
+a i
+Tergugat sering memberikan nafkah kepada Penggugat dan anak; s
+M
+g e
+8. Bahwa, atas sikap dan perbuatan Tergugat tersebut, Penggugat sudah tidak sanggup lagi
+n
+n
+u 2 Berdasarkan ... o
 d
 g
 n
@@ -327,80 +321,75 @@ a
 p
 k
 Direktori Putusan Mahkamah Agung Republik Indonesia
+3
 e
 h a
 putusan.mahkamahagung.go.id
 R
-a 5. Bahwa selain permasalahan tersebut, komunikasi yang terjalin antara i
+a i
+untuk meneruskan hidup berumah tangga bersama Tergugat dan memilih untuk s
+M
+bercerai; g e
+n
+n
+9. Bahwa, Penggugat sanggup membayar seluruh biaya yang timbul akibat perkara inoi;
+u
+Berdasarkan alasan/dalil tersebut diatas, Penggugat mohon kepada Ketua Pdengadilan
+g
+Agama Bengkayang cq. Majelis Hakim agar segera memeriksa dan mengandili perkara ini,
+A
+selanjutnya menjatuhkan putusan sebagai berikut : I
+h k
+1. Menerima dan mengabulkan gugatan Penggugat;
+a i
+2. Menjatuhkan talak satu ba'in sughra dari Tergugat (KlADARUSNO BIN SUKADI)
+m b
+terhadap Penggugat (U. SARI SAFITRI BINTI U. HASAN);
+u
+a
+p
+3. Membebankan biaya perkara kepada Penggugat;
+k
+e
+h Atau apabila Pengadilan Agama berpendapat lain, mohon putusan yang seadil-adilnya; a
+R
+a Menimbang, bahwa pada hari dan tanggal persidangan yang telah ditetapkan, i
 s
 M
-Pemohon dan Termo hon tidak baik. Pemohon sebagai kepala keluarga
+Penggugat datang menghadap, sedangkan Tergugat tidak datang dan tidak pula menyuruh
 g e
-selalu tidak dihargai dan direndahkan oleh Termohon dan Orangtuanya;
+orang lain untuk menghadap sebagai wakil/kuasanya, meskipun menurut relaas panggilan n
 n
-6. Bahwa Punncak cek cok dan pertengkaran yang terjadi antara Pemohon
-dan Teurmohon terjadi pada Januari 2023, Dimana antara Pemohon dano
-Termohon terlibat pertengkaran terkait dengan kurangnya nafkah, dyang
-g
-mengakibatkan Pemohon di usir oleh Mertua/Orangtua Termohon dari
+nomor 48/Pdt.Gu/2011/PA.Bky tanggal 17 Februari 2011, 4 Maret 2011 dan 18 Maret 201o1
+d
+telah dipagnggil secara resmi dan patut, sedang tidak ternyata tidak datangnya itu disebabkan
 n
-A
-rumahnya. Sehingga saat itu Pemohon kembali tinggal dengan
+olehA suatu alasan yang sah;
 I
-orangtuanya di Mendang, RT004 RW003, Desa Ngroto, Ke c. Kismantoro,
+Menimbang, bahwa Majelis Hakim telah berusaha menasehati Penggugat agar
 h k
-Kab. Wonogiri, sampai dengan sekarang keduanya tidak lagi tinggal
+bersabar dan mengurungkan niatnya untuk bercerai, namun tidak berhasil, selanjutnya
 a i
-bersama dalam satu rumah. (pisah rumah 36 bulan / 3 tahun);
-l
-m 7. Bahwa dapat ditarik Kesimpulan terjadinya bcek cok dan pertengkaran
-antara Pemohon dan Termohon disebuabkan karena alasan sebagai
+dibacakanlah gugatan Penggugat, yang isinya tetap dipertahankanl oleh Penggugat;
+m b
+Menimbang, bahwa untuk memperkuat dalil gugatannya, Penggugat telah
+u
 a
-berikut:
+mengajukan bukti surat berupa :
 p
 k
-a. Bahwa antara Pemohon dan Termohon terus terjadi pertengkaran
-e
-h dan cek-cok yang disebabkan karena Termohon merasa kurang a
-R
-a dengan nafkah yang diberikan Pemohon kepada Termohon; i
-s
-M b. Bahwa Orangtua Te rmohon selalu ikut campur dengan urusan rumah
-g e
-tangga Pemohon dan Termohon, bahkan ikut memojokkan Pemohon
-n
-dalam hal nnafkah Pemohon kepada Termohon;
-c. Bahwua Pemohon diusir oleh orangtua Termohon, sehingga sejak o
-Bulan Januari 2023 dan sampai sekarang tidak pernah tinggdal
-g
-bersama lagi dalam satu rumah dengan Termohon; (pisah rumah
-n
-A
-selama 36 bulan/3th);
-I
-8. Bahwa sejak bulan Januari 2023, antara Pemohon dan Term ohon tidak
-h k
-lagi saling berkomunikasi dengan baik layak nya pasangan suami isteri,
-a i
-bahkan tidak tinggal lagi dalam satu rumah. Sehingga Pemohon merasa
-l
-m rumah tangganya dengan Termohon sudah tidbak dapat dipertahankan
-lagi karena alasan-alasan sebagaimana teursebut diatas, dan tidak ada
-a
-harapan untuk dapat hidup rukun Kembali layaknya keluarga yang
-p
-k
-Sakinah mawaddah warohmah;
-e
+Fotokopi Kutipan Akta Nikah Nomor : 1e57/07/9/1999, tanggal 8 Oktober 1999, yang
 h a
-9. Bahwa antara Keluarga besar Pemohon dan Keluarga besar Termohon
-R
-a sudah memusyawarahkan terkait kelanjutan rumah tangga Pemohon dan i
+dikeluarkan oleh Kantor Urusan AgaRma Kecamatan Roban, Kota Singkawang, bermaterai
+a i
 s
-M Termohon. Tepatnya dibu lan Juni 2023, Paman Pemohon sebagai
+M
+cukup dan telah dicocokkan sesuai dengan aslinya, lalu ditandai (P);
 g e
+Menimbang, bahwa disamping itu Penggugat juga mengajukan saksi-saksi sebagai
 n
-Hanlaman 3 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+n
+berikut :
 o
 u
 d
@@ -478,78 +467,74 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a utusan dari keluarga Pemohon berkunjung kerumah Termohon, dengan i
-s
+a i
+SAKSI I :3 U. Erna Suryani Binti Hasan, memberikan keterangan di bawah sumpah, yang s
 M
-maksud untuk me mastikan bagaimana hubungan rumah tangga
-g e
-Pemohon dan Termohon. Dalam mediasi tersebut disepakati beberapa
+pada pokoknya sebagagi berikut : e
 n
-hal, n
-1) Buahwa antara Pemohon dan Termohon sepakat untuk berpisaho
-dengan menyerahkan semua pengurusan perceraian kedpada
-g
-Pemohon, dan tanpa tuntutan nafkah apapun dari Termohon;
 n
-A
-2) Bahwa hak asuh anak berada di Termohon, dengan tetap memberi
-I
-waktu Pemohon untuk bertemu anak;
-h k
-3) Pemohon memberikan nafkah kepada anaknya setiap bulan, sesuai
-a i
-dengan kemampuannya;
-l
-m 10. Bahwa terkait dengan kewajiban Nafkah-bnafkah Pemohon kepada
-Termohon, dalam hal ini dikarenakan utelah ada kesepakatan pisah
-a
-bersama, serta mengingat kondisi Pemohon yang saat ini hanya bekerja
-p
-k
-sebagai buruh potong kayu, maka Pemohon tidak mampu untuk
-e
-h memberikan nafkah Iddah dan Nafkah Mut'ah kepada Termohon. a
-R
-a Adapun selama pisah, Pemohon tetap rutin memberikan nafkah kepada i
-s
-M anaknya rata-rata sebes ar Rp 300.000 / bulan;
-g e
-11. Bahwa dengan sebab-sebab tersebut diatas, maka untuk memastikan
-n
-agar status hunkum perkawinannya antara Pemohon dan Termohon tidak
-menggantuung, maka sesuai kesepakatan kedua belah pihak, Pemohon o
-memutuskan untuk mengajukan Permohonan Cerai Talak ini dke
-g
-Pengadilan Agama Wonogiri;
-n
-A
-12. Bahwa menurut Pemohon, Cerai Talak telah memenuhi alasan
-I
-perceraian sebagaimana tercantum dalam PP No. 9 tahun 197 5 Pasal 19
-h k
-huruf (f) Jo. Kompilasi Hukum Islam Pasal 116 huruf (f) yang berbunyi:
-a i
-perceraian dapat terjadi karena alasan atau alasan-alasan: (f) antara
-l
-m suami isteri terus menerus terjadi perselisihanb dan pertengkaran dan
-tidak ada lagi harapan lagi hidup rukun dalamu rumah tangga ;
-a
-13. Bahwa oleh karena rumah tangga yang demikian ini sulit untuk
-p
-k
-dipertahankan juga sulit untuk disatukan, maka sesuai dengan
-e
-h a
-Yurisprudensi MARI No.534.K/Pdt/1996 tanggal 8 Juni 1996 disebutkan
-R
-a bahwa perceraian itu terjadi tidak perlu dilihat dari siapa penyebab i
-s
-M percekcokan/pertengkaran atau karena salah satu pihak telah
-g e
-n
-Hanlaman 4 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+- Bahwa, saksi kenal dengan Penggugat dan Tergugat, karena saksi adalah kakak kandung
 o
 u
+Penggugat;
+d
+g
+- Bahwa, saksi mengetahui Penggugat dan Tergugat adalah suami istri sah, menikah pada
+n
+A
+tahun 1999, dan telah dikaruniai 2 orang anak;
+I
+- Bahwa setelah menikah Penggugat dan Tergugat bertempat tinggal di rumah orang tua
+h k
+a Tergugat di Singkawang selama 2 tahun, kemudian pin i dah ke rumah orang tua
+l
+m Penggugat di daerah Sambas selama 3 tahun selanjubtnya kembali lagi ke rumah orang
+tua Tergugat hingga bulan Juli 2010, kemudiaun berpisah. Penggugat pindah ke rumah
+a
+p
+kontrakan sedangkan Tergugat ditahan di Lembaga Pemasyarakatan Singkawang;
+k
+e
+h - Bahwa, saksi mengetahui pada awalnya rumah tangga Penggugat dan Tergugat a
+R
+a harmonis, namun sekarang sudah tidak harmonis lagi, sering berselisih dan bertengkar i
+s
+M
+disebabkan Tergugat menikah lagi dengan perempuan lain yang bernama Evi tanpa
+g e
+seizin Penggugat, Tergugat menikah lagi setelah kepindahan mereka dari Sambas. n
+n
+Tergugat jugua sering berjudi dan kecanduan narkoba hingga Tergugat pernah 2 kaoli
+d
+ditahang di Lembaga Pemasyaratan Singkawang akibat kasus narkoba;
+n
+- BAahwa, saksi telah berusaha mendamaikan Penggugat dan Tergugat, akan tetapi tidak
+I
+berhasil;
+h k
+SAKSI II : Eka Purnama Binti Abdul Hamid, memberikan keterangan di bawah sumpah,
+a i
+yang pada pokoknya sebagai berikut4: l
+m b
+- Bahwa, saksi kenal dengan Penggugat dan Tergugat, karena saksi adalah teman
+u
+a
+Penggugat;
+p
+k
+- Bahwa, saksi mengetahui Penggugat dane Tergugat adalah suami istri sah, menikah pada
+h a
+tahun 1999, dan telah dikaruniai 2 Rorang anak;
+a i
+s
+M
+- Bahwa setelah menikah Penggu gat dan Tergugat bertempat tinggal di rumah orang tua
+g e
+Tergugat selama 2 tahun, kemudian pindah ke rumah orang tua Penggugat di daerah
+n
+n
+3 - Bahwa, ...
+u 4 - Bahwa, ... o
 d
 g
 n
@@ -621,82 +606,80 @@ a
 p
 k
 Direktori Putusan Mahkamah Agung Republik Indonesia
+5
 e
 h a
 putusan.mahkamahagung.go.id
 R
-a meninggalkan pihak lain, tetapi yang perlu dilihat adalah perkawinan itu i
-s
+a i
+Sambas selama 3 tahun dan selanjutnya kembali lagi ke rumah orang tua Tergugat; s
 M
-sendiri apakah masi h dapat dipertahankan atau tidak, karena jika hati
-g e
-kedua belah pihak sudah pecah, maka perceraian itu sendiri sudah
+- Bahwa, saksi menggetahui pada awalnya rumah tangga Penggugat dan Tergugat e
 n
-terjadi, noleh karena itu tidak mungkin perkawinan
-itu dipuertahankan/dipersatukan lagi; o
-14. Bahwa alasan Perceraian antara Pemohon dan Termohon sebagaimdana
-g
-Posita 7, hal tersebut telah memenuhi ketentuan dalam SEMA NO. 3
 n
-A
-Tahun 2023 Rumusan Kamar Agama, Perkara perceraian dengan
-I
-alasan perselisihan dan pertengkaran terus menerus dap at dikabulkan
-h k
-jika terbukti suami istri terjadi perselisihan dan pertengkaran terus
-a i
-menerus dan tidak ada harapan akan hidup rukun lagi dalam rumah
-l
-m tangga diikuti dengan telah berpisah tempabt tinggal paling singkat 6
-(enam) bulan kecuali ditemukaun fakta hukum adanya
-a
-Tergugat/Penggugat melakukan KDRT . Bahwa merujuk SEMA NO. 3
-p
-k
-Tahun 2023 Rumusan Kamar Agama, telah jelas dan terpenuhi alasan
-e
-h perceraian antara Pemohon dan Termohon, dimana keduanya sudah a
-R
-a berpisah tempat tinggal sejak Bulan Januari 2023; i
-s
-M Bahwa berdasarkan a lasan-alasan tersebut di atas, Pemohon mohon
-g e
-kepada Bapak Ketua Pengadilan Agama Wonogiri cq. Majelis Hakim yang
-n
-memeriksa perkara nini berkenan memutuskan sebagai berikut :
-1. Menerimau dan mengabulkan Permohonan Pemohon untuk seluruhnya; o
-2. Memberikan Ijin kepada Pemohon Pemohon, untuk mengucapkan Ikrdar
-g
-menjatuhkan Talak satu Raj'I terhadap Termohon Termohon, di dalam
-n
-A
-Persidangan;
-I
-3. Membebankan biaya perkara ini menurut ketentuan hukum yan g berlaku;
-h k
-ATAU: Jika Pengadilan Agama Wonogiri berpendapat lain, Pemohon mohon
-a i
-putusan yang seadil-adilnya yang maksudnya sedemikian itu
-l
-m Bahwa pada persidangan yang telah ditebtapkan Pemohon telah
-datang menghadap di persidangan, sedangkaun Termohon tidak datang
-a
-menghadap di persidangan dan tidak menyuruh orang lain untuk menghadap
-p
-k
-sebagai wakil/kuasanya yang sah, meskipun berdasarkan surat panggilan
-e
-h a
-(relaas) Nomor 170/Pdt.G/2026/PA.Wng yang diterima pada tanggal 20
-R
-a Januari 2026 dan Nomor 170/Pdt.G/2026/PA.Wng yang diterima pada tanggal i
-s
-M 23 Januari 2026 yang dibacaka n di persidangan, Termohon telah dipanggil
-g e
-n
-Hanlaman 5 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+harmonis, namun sekarang sudah tidak harmonis lagi, sering berselisih dan bertengkar
 o
 u
+disebabkan Tergugat menikah lagi tanpa izin Penggugat dengan perempuan lain, bahkan
+d
+g
+Tergugat sudah mempunyai anak dari pernikahan itu;
+n
+A
+- Bahwa, saksi mengetahui bahwa Tergugat sering bermain judi dan kecanduan narkoba,
+I
+bahkan sejak Juli 2010 Tergugat ditahan di Lembaga Pemasyarakatan akibat kasus
+h k
+a
+narkoba;5
+i
+l
+m - Bahwa, saksi mengetahui bahwa Pengggugat pernahb menjenguk Tergugat di Lembaga
+Pemasyarakatan Singkawang ketika ditahan yuang pertama kali untuk meminta uang
+a
+p
+nafkah kepada Tergugat malah Penggugat terlibat perselisihan dengan perempuan lain
+k
+e
+h yang bernama Evi yang kemudian diketahui Penggugat sebagai Isteri kedua Tergugat, a
+R
+a dan pada saat ditahan untuk yang kedua kali, Penggugat tidak pernah menjenguk karena i
+s
+M
+Tergugat ditangkap bersama perempuan lain bernama Ika yang diduga selingkuhan
+g e
+Tergugat, hingga Penggugat merasa kecewa dan sakit hati; n
+n
+- Bahwa, saksui telah berusaha mendamaikan Penggugat dan Tergugat, akan tetapi tidaok
+d
+berhasigl;
+n
+AMenimbang, bahwa selanjutnya Penggugat memberikan kesimpulan bahwa tetap
+I
+in gin bercerai dan mohon putusan;
+h k
+Menimbang, bahwa untuk mempersingkat uraian putusan ini, maka ditunjuk berita
+a i
+acara persidangan perkara merupakan bagian yang tidak terpisahklan dari putusan ini;
+m b
+TENTANG PERTIMBANGAN HUKUMNYA
+u
+a
+Menimbang, bahwa maksud dan tujuan gugatan Penggugat adalah seperti diuraikan
+p
+k
+tersebut di atas; e
+h a
+Menimbang, bahwa Majelis RHakim telah berusaha menasehati Penggugat agar
+a i
+s
+M
+bersabar dan mengurungkan niatny a untuk bercerai, namun tidak berhasil;
+g e
+Menimbang, bahwa oleh karena Tergugat tidak hadir di persidangan tanpa alasan
+n
+n
+u 5 meskipun ... o
 d
 g
 n
@@ -772,81 +755,80 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a secara resmi dan patut melalui surat tercatat, sedangkan tidak ternyata bahwa i
-s
+a i
+yang sah, dan tidak pula menyuruh orang lain untuk menghadap sebagai wakil/kuasanya, s
 M
-tidak datangnya Termohon disebabkan oleh suatu alasan yang sah;
-g e
-Bahwa selanjutnya dalam persidangan Majelis Hakim telah memeriksa
-n
-identitas Pemohnon yang ternyata identitas Pemohon yang tertera pada
-permohonanu Pemohon sesuai dengan identitas Pemohon yang tertera padao
-Kartu Tanda Penduduk (KTP) Pemohon; d
-g
-Bahwa Majelis Hakim juga telah memeriksa identitas kuasa hukum
-n
-A
-Pemohon dan surat kuasanya, ternyata identitas kuasa hukum Pemohon
-I
-sesuai dengan yang tertera dalam surat permohonan dan surat kuasa
-h k
-Pemohon telah memenuhi syarat formil;
-a i
-Bahwa Majelis Hakim telah mendamaikan Pemohon dengan
-l
-m menasehati Pemohon agar berfikir untuk tidak bbercerai dengan Termohon,
-tetapi Pemohon tetap pada dalil-dalil permohuonannya untuk bercerai dengan
-a
-Termohon;
-p
-k
-Bahwa perkara ini tidak dapat dimediasi karena Termohon tidak
-e
-h a
-pernah datang menghadap meskipun telah dipanggil secara resmi dan patut,
-R
-a selanjutnya dimulai pemeriksaan dengan membacakan surat permohonan i
-s
-M Pemohon yang isinya tetap di pertahankan oleh Pemohon;
-g e
-Bahwa oleh karena Termohon tidak pernah hadir di persidangan,
+meskipun Pengadilan gtelah memanggilnya secara resmi dan patut, dan gugatan Penggugat e
 n
 n
-maka jawaban Termohon atas permohonan Pemohon tidak dapat
-didengarkan; u o
-Bahwa Pemohon untuk membuktikan dalil-dalil permohonannya teldah
-g
-mengajukan bukti-bukti berupa:
-n
-A
-A. Surat.
-I
-1. Fotokopi Kartu Tanda Penduduk NIK xxxxxxxxxxxxxxx tang gal 23 Juli
-h k
-2020 yang diterbitkan oleh Dinas Kependudukan dan pencatatan Sipil
-a i
-Kabupaten Wonogiri, yang telah di nasegenelen dan bermeterai cukup
-l
-m b
-dan, telah dicocokkan dengan aslinya dan ternyata sesuai, kemudian
-diberi kode bukti (P.1); u
-a
-2. Fotokopi Kutipan Akta Nikah Nomor xxxxxxxxxxxxxx Tanggal 02 April
-p
-k
-2020 diterbitkan oleh Kantor Urusan Agama (KUA xxxxxxxxxxxxx
-e
-h a
-xxxxxxxxx xxxxxxxx xxxxxxxx xxxx xxxxxx. Bukti surat tersebut telah di
-R
-a i
-s
-M
-g e
-n
-Hanlaman 6 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+berdasarkan hukum, maka perkara ini dapat diputus dengan verstek, sesuai Pasal 149 ayat
 o
 u
+(1) Rbg. Hal ini sesuai dengan pendapat Pakar Hukum Islam yang terdapat dalam Kitab Al-
+d
+g
+Anwar Juz II halaman 55 yang diambil alih menjadi pertimbangan Majelis Hakim yang
+n
+A
+berbunyi:
+I
+h
+هتابثا زاج ةبيغ وا رتاوت وا ززعتب
+k
+ززعت نا و6
+ةنيبلاب
+a i
+l
+m Artinya : “Apabila ia enggan, bersembunyi atau ghboib, maka perkara itu diputuskan
+dengan bukti-buktui (persaksian)”.
+a
+p
+k
+Menimbang, bahwa sebelum mempertimbangkan pokok perkara terlebih dahulu
+e
+h a
+Majelis Hakim mempertimbangkan perkawinan Penggugat dan Tergugat;
+R
+a i
+s
+Menimbang, bahwa berdasarkan bukti (P) serta dikuatkan keterangan para saksi telah
+M
+g e
+terbukti bahwa Penggugat dan Tergugat terikat perkawinan yang sah;
+n
+n
+Menimbang, bahwa kesaksian para saksi/keluarga Penggugat yang dikategorikan
+o
+u
+bersesuaian antara satu dengan yang lain pada pokoknya menerangkan bahwa dalam rumah
+d
+g
+tangga Penggugat dan Tergugat sejak pindah tempat tinggal dari rumah orang tua
+n
+A
+Penggugat di Sambas ke rumah orang tua Tergugat di Singkawang selalu terjadi
+I
+hperselisihan dan pertengkaran, dan Tergugat menikah lagi dengan pkerempuan lain tanpa
+aizin Pengggugat, dan dari pernikahan tersebut Tergugat sudah diikaruniai seorang anak,
+l
+m b
+Tergugat juga sering bermain judi dan kecanduan narkoba, bahkan Tergugat pernah ditahan
+u
+sebanyak 2 kali di Lembaga Pemasyarakatan di Singkawang akibat kasus narkoba dan saat
+a
+p
+k Tergugat ditahan untuk yang kedua kali, bersama-sama dengan perempuan lain yang
+e
+h diduga selingkuhan Tergugat. Sejak Tergugat ditahan Penggugat pindah dari tempat a
+R
+a i
+kediaman bersama ke rumah kontrakan, saksi-saksi sudah mendamaikan Penggugat dan
+s
+M
+Tergugat namun tidak berhasigl; e
+n
+Menimbang, bahwna atas keadaan mana di persidangan telah didengar keterangan
+u 6 Menimbang, ... o
 d
 g
 n
@@ -918,82 +900,78 @@ a
 p
 k
 Direktori Putusan Mahkamah Agung Republik Indonesia
+7
 e
 h a
 putusan.mahkamahagung.go.id
 R
-a nasegelen dan bermeterai cukup, dicocokkan dengan aslinya yang i
-s
+a i
+orang dekat Penggugat, yang pada pokoknya menerangkan gagal mendamaikan Penggugat s
 M
-ternyata sesuai, kem udian diberi kode bukti (P.2);
-g e
-3. Fotokopi Kartu Keluarga nomor xxxxxxxxxxxxx Dinas Kependudukan
+dan Tergugat; g e
 n
-dan pencantatan Sipil Kabupaten Wonogiri tertanggal 5 Oktober 2022.
-yang utelah di nasegelen dan bermeterai cukup dan, telah dicocokkaon
-dengan aslinya dan ternyata sesuai, kemudian diberi kode bukti (P.d3);
-g
-B. Saksi.
 n
-A
-1. saksi 1, umur 28 tahun, agama islam, pekerjaan Ibu rumah tangga,
-I
-tempat tinggal di xxxxxxxxxxxxxxxxxxxxxxx, xxxxxxxxx xxxxxxxx, di
-h k
-bawah sumpahnya memberikan keterangan sebagai berikut :
-a i
-- Bahwa saksi kenal dengan Pemohon dan Termohon, karena saksi
-l
-m adalah adik kandung Pemohon; b
-- Bahwa saksi mengetahui Pemohon udengan Termohon adalah suami
-a
-istri yang menikah 2020;
-p
-k
-- Bahwa setelah menikah, Pemohon dan Termohon telah dikaruniai
-e
-h satu (1) orang anak sekarang diasuh oleh Termohon; a
-R
-a - Bahwa saksi tahu menikah Pemohon dan Termohon hidup bersama i
-s
-M di rumah orang tua T ermohon;
-g e
-- Bahwa setahu saksi, selama tinggal bersama rumah tangga Pemohon
-n
-dan Termonhon semula dalam keadaan rukun namun sejak akhir tahun
-2022 urumah tangga keduanya tidak rukun dan pernah terjadi o
-perselisihan dan pertengkaran; d
-g
-- Bahwa saksi dengar dari cerita Termohon bahwa penyebab
-n
-A
-bertengkaran karena masalah Ekonomi dan orang tua Termohon
-I
-sering ikut campur urusan rumah tangga mereka dan Pem ohon sering
-h k
-di marahi orang tua Termohon;
-a i
-- Bahwa saksi tidak pernah lihat Pemohon dan Termohon bertengkar
-l
-m mulut; b
-- Bahwa Saksi tahu pemohon bekerja seubagai penebang kayu dengan
-a
-penghasilan kurang lebih Rp.100.000,-(seratus ribu rupiah) setiap hari
-p
-k
-- Bahwa saksi tahu Pemohon dan Termohon telah pisah rumah sejak
-e
-h a
-selama kurang lebih 3 tahun,
-R
-a - Bahwa saksi dengar cerita Pemohon bahwa Pemohon diusir oleh i
-s
-M keluarga Termohon;
-g e
-n
-Hanlaman 7 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+Menimbang, bahwa berdasarkan hal-hal yang dipertimbangkan di atas, maka Majelis
 o
 u
+menemukan fakta dalam perkara ini sebagai berikut :
+d
+g
+Bahwa, Penggugat dan Tergugat adalah suami isteri yang sah;
+n
+A
+Bahwa,7 dalam rumah tangga Penggugat dan Tergugat selalu terjadi pIerselisihan dan
+h k
+pertengkaran, yang telah berlangsung sejak kepindahan mereka dari rumah orang tua
+a i
+Penggugat di Sambas ke rumah orang tua lTergugat di Singkawang;
+m b
+Bahwa, perselisihan dan pertengkaran tersebut diusebabkan Tergugat menikah lagi dengan
+a
+p
+perempuan lain tanpa seizin Penggugat, suka berjudi dan kecanduan narkoba bahkan
+k
+e
+h Tergugat pernah 2 kali ditahan untuk kasus narkoba; a
+R
+a i
+s
+Bahwa, Penggugat dan Tergugat telah berpisah tempat tinggal sejak bulan Juli 2010;
+M
+g e
+Bahwa, selama berpisah Penggugat tidak pernah mengunjungi Tergugat karena Tergugat n
+n
+ditahan peruempuan yang lain yang diduga sebagai selingkuhan yang lain dari Tergugaot;
+d
+g
+Bahwa, orang dekat Penggugat gagal mendamaikan Penggugat dan Tergugat;
+n
+A
+I
+Menimbang, bahwa apabila dalam rumah tangga, salah satu pihak s uami isteri sudah
+h k
+tidak lagi berkeinginan untuk hidup menyatu secara rukun damai dan tidak dapat mentolerir
+a i
+kekurangan pasangannya serta telah berpisah tempat tinggal, lhal tersebut menunjukkan
+m b
+bahwa ikatan kasih sayang yang menjadi ikatan batin keduanya telah putus dan tidak
+u
+a
+mungkin mewujudkan tujuan perkawinan yang sakinah, mawaddah dan rahmah, sehingga
+p
+k
+mempertahankan rumah tangga yang demiekian tidaklah mendatangkan kemaslahatan dan
+h a
+justru akan menimbulkan kemudratanR bagi kedua belah pihak suami isteri, hal mana dalam
+a i
+s
+M
+bentuk yang bagaimanapun kemud ratan itu harus dihindari sedapat mungkin;
+g e
+Menimbang, bahwa berdasarkan pertimbangan-pertimbangan tersebut di atas, Majelis
+n
+n
+u 7 yang ... o
 d
 g
 n
@@ -1069,78 +1047,78 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a - Bahwa selama pisah antara Pemohon dengan Termohon tidak i
-s
+a i
+menilai bahwa dalam rumah tangga Penggugat dan Tergugat telah terjadi rumah tangga s
 M
-pernah kumpul ke mbali;
-g e
-- Bahwa saksi tahu Pemohon masih sesekali berkunjung ke orang tua
+yang pecah (Marriageg breakdown) yang sulit untuk dirukunkan lagi, hal mana sesuai e
 n
-Termohnon hanya untuk nengok anaknya;
-- Bauhwa pihak keluarga sudah pernah mendamaikan Pemohon daon
-Termohon, akan tetapi tidak berhasil; d
-g
-- Bahwa saksi sudah tidak sanggup mendamaikan Pemohon dan
 n
-A
-Termohon;
-I
-2. saksi 2, umur 33 tahun, agama islam, tukang kayu, tem pat tinggal di
-h k
-xxxxxxxxxxxxxxx xxxxxxxxx xxxxxxxx, di bawah sumpahnya memberikan
-a i
-keterangan sebagai berikut :
-l
-m - Bahwa saksi kenal dengan Pemohon dabn Termohon, karena saksi
-adalah adik ipar Pemohon; u
-a
-- Bahwa saksi mengetahui Pemohon dengan Termohon adalah suami
-p
-k
-istri yang menikah 2020;
-e
-h - Bahwa setelah menikah, Pemohon dan Termohon telah dikaruniai a
-R
-a satu (1) orang anak sekarang diasuh oleh Termohon; i
-s
-M - Bahwa saksi tahu m enikah Pemohon dan Termohon hidup bersama
-g e
-di rumah orang tua Termohon;
-n
-- Bahwa setnahu saksi, selama tinggal bersama rumah tangga Pemohon
-dan Tuermohon semula dalam keadaan rukun namun sejak akhir tahun o
-2022 rumah tangga keduanya tidak rukun dan pernah terjdadi
-g
-perselisihan dan pertengkaran;
-n
-A
-- Bahwa saksi dengar dari cerita Pemohon dan juga Termohon bahwa
-I
-penyebab bertengkaran karena masalah Ekonomi dan orang tua
-h k
-Termohon sering ikut campur urusan rumah tangga mereka dan
-a i
-Pemohon sering di marahi orang tua Termohon;
-l
-m - Bahwa saksi tidak pernah lihat Pemohon dban Termohon bertengkar
-mulut; u
-a
-- Bahwa Saksi tahu pemohon bekerja sebagai penebang kayu tidak
-p
-k
-tahu pasti penghasilannya;
-e
-h a
-- Bahwa saksi tahu Pemohon dan Termohon telah pisah rumah selama
-R
-a hampir kurang lebih 3 tahun, karena karena Pemohon di usir oleh i
-s
-M orang tua Termohon da n kembali ke rumah orang tuanya
-g e
-n
-Hanlaman 8 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+dengan yurisprudensi Putusan Mahkamah Agung RI No. 38/K/AG/1990 bahwa yang dituju
 o
 u
+dari Pasal 19 huruf (f) PP No.9 Tahun 1975 adalah keadaan pecahnya rumah tangga itu
+d
+g
+sendiri, dengan demikian alasan Penggugat untuk bercerai dari Tergugat telah sesuai
+n
+A
+dengan pasal 39 ayat (2) UU No. 1 Tahun 1974 jo. Pasal 19 huruf (f) PP No. 9 Tahun 1975
+I
+jo. Pasal 116 huruf (f) KHI;
+h k
+a Menimbang, bahwa disamping itu alasan tersebut telah se i suai dengan pendapat Pakar
+l
+m Hukum Islam yang terdapat dalam Kitab Fiqh Sunnah Jubz II halaman 248 yang diambil alih
+menjadi pertimbangan Majelis Hakim yang berbunuyi :
+a
+جوزللا فرتلعا وأ ةجوزلا ةنيبpب ىضاقلا ىدل اهاوعد تبث اذا
+k
+المهلاثمأ نليب ةرلشعلا ماود هلعم قالطي المم ءاذليلا نالكو
+e
+h a
+ةنئاب ةقلط قلط امهنيب حلصلا نع ىضاقلا زجعو
+8 R
+a i
+s
+Artinya : “Jika tuduhan di depan Pengadilan terbukti dengan bukti yang diajukan istri atau
+M
+g e
+karena pengakuan suami, sedangkan hubungan suami istri tidak dapat lagi diteruskan
+n
+n
+karena perbuatan suami yang menyakitkan, dan Pengadilan tidak mampu
+o
+u
+mendamaikan mereka, maka boleh dijatuhkan talak ba'in kepada istrinya”.
+d
+g
+n
+AMenimbang, dengan demikian Majelis berkesimpulan bahwa gugatan Penggugat
+I
+te lah terbukti dan memenuhi syarat dan alasannya, oleh karena itu gu gatan Penggugat
+h k
+sudah sepatutnya dikabulkan dengan menjatuhkan talak satu bain sughra Tergugat terhadap
+a i
+Penggugat; l
+m b
+Menimbang, bahwa berdasarkan Pasal 89 ayat (1) Undang-Undang Nomor 7 Tahun
+u
+a
+1989 yang telah diubah dengan Undang-Undang Nomor 3 Tahun 2006 dan perubahan
+p
+k
+kedua dengan Undang-Undang Nomor 50e Tahun 2009, maka biaya perkara dibebankan
+h a
+kepada Penggugat; R
+a i
+s
+M
+Mengingat akan Pasal 49 U ndang-Undang Nomor 7 Tahun 1989 yang telah diubah
+g e
+dengan Undang-Undang Nomor 3 Tahun 2006 dan perubahan kedua dengan Undang-
+n
+n
+u 8 Undang ... o
 d
 g
 n
@@ -1212,84 +1190,81 @@ a
 p
 k
 Direktori Putusan Mahkamah Agung Republik Indonesia
+9
 e
 h a
 putusan.mahkamahagung.go.id
 R
-a - Bahwa selama pisah antara Pemohon dengan Termohon tidak i
-s
+a i
+Undang Nomor 50 Tahun 2009 dan segala ketentuan perundang-undangan yang berlaku, s
 M
-pernah kumpul ke mbali;
-g e
-- Bahwa saksi tahu Pemohon masih sesekali berkunjung ke orang tua
+serta dalil syar'i yang bgersangkutan dengan perkara ini; e
 n
-Termohnon hanya untuk nengok anaknya;
-- Bauhwa pihak keluarga sudah pernah mendamaikan Pemohon daon
-Termohon, akan tetapi tidak berhasil; d
-g
-- Bahwa saksi sudah tidak sanggup mendamaikan Pemohon dan
 n
-A
-Termohon;
-I
-Bahwa atas keterangan saksi-saksi diatas Pemohon membenarkan
-h k
-dan mencukupkan alat bukti, sedangkan Termohon tidak dapat didengar
-a i
-keterangannya;
-l
-m Bahwa Pemohon telah menyampaikan bkesimpulan yang isinya
-sebagaimana telah tertuang dalam berita acarua sidang;
-a
-Bahwa untuk mempersingkat uraian putusan ini, segala yang tercatat
-p
-k
-dalam berita acara sidang merupakan bagian yang tidak terpisahkan dari
-e
-h
-putusan ini;
-a
-R
-a PERTIMBANGAN HUKUM i
-s
-M Menimbang, bahwa m aksud dan tujuan permohonan Pemohon adalah
-g e
-sebagaimana terurai di atas;
-n
-Menimbangn, bahwa sebelum mempertimbangkan pokok perkara,
-Majelis Hakim uterlebih dahulu akan mempertimbangkan keabsahan Surat o
-Kuasa Khusus dari Pemohon sebagai berikut; d
-g
-Menimbang, bahwa sebagai Kuasa Hukum Pemohon telah
-n
-A
-menyerahkan Surat Kuasa Khusus, Fotokopi Kartu Anggota Advokat yang
-I
-ma sih berlaku dan Berita Acara Sumpah dari Pengadilan Tinggi;
-h k
-Menimbang, bahwa berdasarkan Surat Edaran Mahkamah Agung RI
-a i
-Nomor 6 Tahun 1994 tentang Surat Kuasa Khusus jo. Pasal 3 ayat (2) Undang
-l
-m – Undang Nomor 10 Tahun 2020 tentang Bea Meterbai jo. Undang – Undang
-Nomor 18 Tahun 2003 tentang Advokat, dan kareunanya Majelis Hakim menilai
-a
-bahwa Kuasa Hukum Pemohon tersebut di atas telah memenuhi persyaratan
-p
-k
-bertindak untuk dan atas nama serta kepentingan Pemohon ;
-e
-h a
-Menimbang, bahwa pada hari-hari sidang yang telah ditetapkan untuk
-R
-a itu, Pemohon didampingi kuasa hukumnya dan Termohon tidak hadir i
-s
-M menghadap di persidangan;
-g e
-n
-Hanlaman 9 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+9MENGADILI9
 o
 u
+1. Menyatakan Tergugat yang telah dipanggil secara resmi dan patut untuk datang
+d
+g
+menghadap ke persidangan tidak hadir;
+n
+A
+2. Mengabulkan gugatan Penggugat dengan verstek;------------------------I----------------------
+h k
+3. Menjatuhkan talak satu ba'in sughra Tergugat (KADARUSNO bin SUKADI) terhadap
+a i
+Penggugat (U. SARI SAFITRI binti U. HASAN);----------l------------------------------------
+m b
+4. Membebankan kepada Penggugat untuk membayar biaya perkara ini sebesar Rp.
+u
+a
+291.000,- (dua ratus sembilan puluh satu ribu rupiah);----------------------------------------
+p
+k
+Demikian putusan ini dijatuhkan dalam rapat permusyawaratan Majelis Hakim
+e
+h a
+Pengadilan Agama Bengkayang pada hari Kamis tanggal 24 Maret 2011 M. bertepatan
+R
+a i
+s
+dengan tanggal 19 Rabiul Tsani 1432 H. oleh kami M. AMIN ROSYID, S. Ag., M.Si.
+M
+g e
+sebagai Ketua Majelis, MUHAMMAD REZANI, S.H.I. dan FIRMAN WAHYUDI, S.H.I.
+n
+n
+masing-masing sebagai Hakim Anggota, didampingi RASYID ZAYYAT, SH., MH.
+o
+u
+sebagai Panitera Pengganti, putusan tersebut pada hari itu juga diucapkan dalam sidang
+d
+g
+terbuka untuk umum oleh Ketua Majelis tersebut dan dihadiri oleh para Hakim anggota itu
+n
+A
+juga, dengan dihadiri oleh Penggugat tanpa hadirnya Tergugat.
+I
+hHAKIM ANGGOTA : KETUA MAJELIS,k
+a i
+l
+m b
+1. MUHAMMAD REZANI, S.H.I. M. AuMIN ROSYID, S. Ag., M.Si.
+a
+p
+k
+e
+h a
+2. FIRMAN WAHYUDI, S.H.I. R
+a i
+s
+PANITERA PENGGANTI,
+M
+g e
+n
+n
+u 9 Perincian ….. o
 d
 g
 n
@@ -1365,79 +1340,62 @@ e
 h a
 putusan.mahkamahagung.go.id
 R
-a Menimbang, bahwa ternyata Termohon tidak datang menghadap di i
+a i
 s
 M
-persidangan dan tidak pu la menyuruh orang lain untuk menghadap sebagai
 g e
-wakil/kuasanya yang sah, meskipun berdasarkan Surat Panggilan (relaas)
-n
-Nomor 170/Pdt.Gn/2026/PA.Wng yang diterima pada tanggal 20 Januari 2026
-dan Nomor u170/Pdt.G/2026/PA.Wng yang diterima pada tanggal 23 Januaroi
-2026 yang dibacakan di persidangan, Termohon telah dipanggil secara dresmi
+n RASYID ZAYYAT, SH., MH. n
+o
+u
+d
 g
-dan patut melalui surat tercatat, sedangkan tidak ternyata bahwa tidak
-n
-A
-datangnya Termohon tersebut disebabkan oleh suatu alasan yang sah;
-I
-Menimbang, bahwa Termohon yang telah dipanggil sec ara resmi dan
-h k
-patut, akan tetapi tidak menghadap persidangan, harus dinyatakan tidak hadir
+APerincian Biaya Perkara : n
+1. Pendaftaran : Rp. 30.000,- I
+h2. Biaya Panggilan Penggugat : Rp. 50.000,-
+k
+3. Biaya Panggilan Tergugat : Rp. 50.000,-
 a i
-dan permohonan Pemohon tersebut harus diperiksa secara verstek, vide
-l
-m Pasal 125 HIR; b
-Menimbang, bahwa Majelis Hakim utelah berusaha mendamaikan
+4. Biaya Materai : Rp. 6.000,- l
+m b
+5. Biaya Redaksi : Rp . 5.000,-
+u
+Jumlah : Rp. 291.000,-
 a
-Pemohon dan Termohon dengan cara memberi nasihat kepada Pemohon
 p
 k
-sebagaimana diatur dalam Pasal 39 ayat (1) Undang-Undang Nomor 1 Tahun
 e
 h a
-1974 jo 31 Peraturan Pemerintah Nomor 9 Tahun 1975 jo Pasal 63
 R
-a Undang-Undang Nomor 7 Tahun 1989 Tentang Peradilan Agama i
+a i
 s
-M sebagaimana telah diubah de ngan Undang-Undang Nomor 3 Tahun 2006 dan
+M
 g e
-perubahan kedua dengan Undang-Undang Nomor 50 Tahun 2009, akan tetapi
 n
 n
-tidak berhasil;
-Menimbuang, bahwa sesuai dengan Peraturan Mahkamah Agung o
-(PERMA) Republik Indonesia Nomor 1 Tahun 2016, terhadap perkara ini tiddak
+o
+u
+d
 g
-layak dilaksanakan mediasi karena Termohon tidak pernah hadir di
 n
 A
-persidangan;
 I
-Menimbang, bahwa berdasarkan ketentuan Pasal 125 HIR, yaitu
 h k
-putusan yang dijatuhkan tanpa hadirnya Termohon dapat dikabulkan
 a i
-sepanjang berdasarkan hukum dan beralasan;
 l
 m b
-Menimbang, bahwa yang menjadi alasan perceraian dalam
-permohonan Pemohon adalah percekcokan dan puerselisihan dikarenakan;
+u
 a
-a. Bahwa antara Pemohon dan Termohon terus terjadi pertengkaran dan
 p
 k
-cek-cok yang disebabkan karena Termohon merasa kurang dengan
 e
 h a
-nafkah yang diberikan Pemohon kepada Termohon;
 R
 a i
 s
 M
 g e
 n
-Hanlaman 10 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
+n
 o
 u
 d
@@ -1450,1455 +1408,6 @@ Disclaimer
 Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
 pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
 D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 10
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a b. Bahwa Orangtua Termohon selalu ikut campur dengan urusan rumah i
-s
-M
-tangga Pemohon d an Termohon, bahkan ikut memojokkan Pemohon
-g e
-dalam hal nafkah Pemohon kepada Termohon;
-n
-c. Bahwa Penmohon diusir oleh orangtua Termohon, sehingga sejak Bulan
-Januauri 2023 dan sampai sekarang tidak pernah tinggal bersama lagoi
-dalam satu rumah dengan Termohon; (pisah rumah selamda 36
-g
-bulan/3th);
-n
-A
-d. Bahwa sejak bulan Januari 2023, antara Pemohon dan Termohon tidak
-I
-lagi saling berkomunikasi dengan baik layak nya pasanga n suami isteri,
-h k
-bahkan tidak tinggal lagi dalam satu rumah. Sehingga Pemohon merasa
-a i
-rumah tangganya dengan Termohon sudah tidak dapat dipertahankan
-l
-m lagi karena alasan-alasan sebagaimana tersbebut diatas, dan tidak ada
-harapan untuk dapat hidup rukun Keumbali layaknya keluarga yang
-a
-Sakinah mawaddah warohmah;
-p
-k
-Tentang Perceraian
-e
-h Menimbang, bahwa meskipun Termohon dianggap mengakui atau a
-R
-a setidak-tidaknya tidak membantah dalil-dalil permohonan Pemohon karena i
-s
-M Termohon tidak pernah hadir di persidangan, namun karena perkara ini perkara
-g e
-perceraian, maka Pemohon tetap diwajibkan untuk membuktikan alasan-alasan
-n
-perceraiannya dengnan mengajukan alat-alat bukti yang cukup;
-Menimubang, bahwa berdasarkan Pasal 163 HIR., jo. Pasal 1685 KUH o
-Perdata, Pemohon berkewajiban untuk membuktikan hal tersebut di atas; d
-g
-Menimbang, bahwa Pemohon untuk membuktikan dalil-dalilnya telah
-n
-A
-mengajukan bukti surat P.1 P.2, dan P.3 serta dua orang saksi;
-I
-Menimbang, bahwa bukti yang diberi tanda P.1 P.2, dan P.3 telah
-h k
-di-nazegelen dan telah dicocokkan dengan aslinya, sehingga bukti-bukti
-a i
-tersebut dapat diterima sebagai alat bukti dan telah memenuhi syarat formil
-l
-m sebagaimana maksud Pasal 3 ayat 1 huruf (b) dan Pbasal 5 Undang-Undang
-Nomor 10 Tahun 2020 tentang Bea Meterai junctuo Pasal 295 HIR juncto Pasal
-a
-1888 KUHPerdata;
-p
-k
-Menimbang, bahwa bukti P.1 (Fotokopi Kartu Tanda Penduduk) yang
-e
-h a
-dan P.3. (Fotokopi Kartu Keluarga) merupakan akta otentik, isi bukti tersebut
-R
-a menjelaskan mengenai domisili (Pemohon) yang berada di wilayah yurisdiksi i
-s
-M Pengadilan Agama Wonogiri, se hingga bukti tersebut telah memenuhi syarat
-g e
-n
-Hanlaman 11 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 11
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a materiil, serta mempunyai kekuatan pembuktian yang sempurna dan mengikat i
-s
-M
-sesuai Pasal 165 HIR juncto Pasal 1870 KUHPerdata dan perkara ini
-g e
-menyangkut bidang perkawinan, maka berdasarkan Pasal 49 ayat (1) huruf
-n
-(a) dan ayat (2) nserta Pasal 66 ayat (2) Undang - Undang Nomor 7 Tahun
-1989 Tentaung Peradilan Agama sebagaimana yang telah diubah dengano
-Undang - Undang Nomor 3 Tahun 2006 dan Perubahan Kedua dedngan
-g
-Undang - Undang Nomor 50 Tahun 2009 adalah merupakan kewenangan
-n
-A
-relatif Pengadilan Agama Wonogiri untuk memeriksa, memutus dan
-I
-menyelesaikannya;
-h k
-Menimbang, bahwa bukti P.2 (Fotokopi Kutipan Akta Nikah) yang
-a i
-merupakan akta otentik, isi bukti tersebut menjelaskan mengenai peristiwa
-l
-m pernikahan yang terjadi antara Pemohon (Pbemohon) dan Termohon
-(Termohon) pada tanggal 02 April 2020 di haudapan Pegawai Pencatat Nikah
-a
-KUA xxxxxxxxxxxx xxxxxxxxx xxxxxxxx xxxxxxxx xxxx xxxxxx, sehingga bukti
-p
-k
-tersebut telah memenuhi syarat materiil, serta mempunyai kekuatan
-e
-h a
-pembuktian yang sempurna dan mengikat sesuai Pasal 165 HIR juncto Pasal
-R
-a 1870 KUHPerdata, oleh karena itu harus dinyatakan terbukti bahwa Pemohon i
-s
-M dengan Termohon memiliki hubungan hukum sebagai suami istri sah, dan
-g e
-Pemohon memiliki legal standing untuk mengajukan permohonan cerai talak di
-n
-Pengadilan Agama nWonogiri;
-Menimbuang, bahwa dua orang saksi yang diajukan oleh Pemohon o
-adalah yang sudah dewasa, berakal sehat, menghadap di persidangan dadn
-g
-menyampaikan secara lisan, mengangkat sumpah atau janji dan orang yang
-n
-A
-dekat dengan Pemohon serta bukan orang yang dilarang menjadi saksi,
-I
-seh ingga memenuhi syarat formal sebagaimana diatur dalam Pas al 145 ayat
-h k
-(1) HIR Pasal 171 HIR dan Pasal 172 HIR juncto Pasal 1911 KUHPerdata
-a i
-juncto Pasal 22 ayat (2) Peraturan Pemerintah Nomor 9 Tahun 1975 tentang
-l
-m Pelaksanaan Undang - Undang Nomor 1 Tahun 19b74 tentang Perkawinan
-juncto Pasal 134 Kompilasi Hukum Islam; u
-a
-Menimbang, bahwa kesaksian kedua orang saksi tersebut
-p
-k
-sebagaimana dijelaskan dalam duduk perkara merupakan keterangan yang
-e
-h a
-dilihat dan didengar sendiri, saling bersesuaian serta cocok antara satu
-R
-a dengan yang lain dan mendukung dalil permohonan Pemohon, oleh karena itu i
-s
-M keterangan para saksi tersebut telah memenuhi syarat materiil sebagaimana
-g e
-n
-Hanlaman 12 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 12
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a telah diatur dalam Pasal 171 HIR. dan Pasal 172 HIR, sehingga keterangan i
-s
-M
-saksi tersebut memiliki ke kuatan pembuktian dan dapat diterima sebagai alat
-g e
-bukti;
-n
-Menimbanng, bahwa berdasarkan bukti-bukti yang diajukan Pemohon,
-baik berupau bukti surat-surat dan saksi-saksi ditemukan fakta hukum sebagaoi
-berikut: d
-g
-▪ Bahwa Pemohon dan Termohon telah melangsungkan pernikahan pada
-n
-A
-tanggal 02 April 2020 di KUA xxxxxxxxxxxxxx xxxxxxxxx xxxxxxxx
-I
-xxxxxxxx xxxx xxxxxx;
-h k
-▪ Bahwa setelah menikah Pemohon dan Termohon tinggal bersama di
-a i
-rumah orang tua Termohon
-l
-m ▪ Bahwa dari pernikahan antara Pemohon dan Tbermohon telah dikaruniai 1
-anak yang saat ini diasuh oleh Termohon; u
-a
-▪ Bahwa para saksi mengetahui rumah tangga Pemohon dan Termohon
-p
-k
-tidak harmonis lagi, karena Pemohon telah pergi meninggalkan kediaman
-e
-h bersama dan tidak pernah kembali lagi sampai sekarang, karena sering a
-R
-a terjadinya pertengkaran dan perselisihan antara Pemohon dengan i
-s
-M Termohon;
-g e
-▪ Bahwa para saksi telah mendengarkan pernyataan Pemohon dan
-n
-Termohon secarna langsung bahwa antara Pemohon dan Termohon sering
-terjadi percuekcokan karena faktor ekonomi; o
-▪ Bahwa para saksi mengetahui Pemohon dan Termohon telah berpisadh
-g
-tempat tinggal sejak awal tahun 2023 atau selama kurang lebih 3 tahun
-n
-A
-lamanya sampai sekarang;
-I
-▪ Bahwa selama pisah rumah tidak ada komunikasi antara Pem ohon dan
-h k
-Termohon, kalaupun berkomunikasi sebatas komunikasi dengan anak
-a i
-Pemohon dan Termohon;
-l
-m ▪ Bahwa keluarga Pemohon dan Termohon,b para saksi pernah
-mendamaikan Pemohon dan Termohon, namuun tidak berhasil;
-a
-Menimbang, bahwa berdasarkan fakta-fakta tersebut di atas, Majelis
-p
-k
-Hakim berpendapat bahwa antara Pemohon dan Termohon telah terjadi
-e
-h a
-keretakan ikatan batin sebagai suami istri, akibat dari perselisihan Pemohon
-R
-a dan Termohon, hingga terjadi pisah rumah atau tempat tinggal yang sudah i
-s
-M berlangsung sekitar 3 tahun la many dan tidak ada harapan untuk kembali
-g e
-n
-Hanlaman 13 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 13
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a rukun, sehingga Pemohon telah berketetapan hati untuk bercerai dengan i
-s
-M
-Termohon, demikian jug a Termohon sudah tidak mau mempertahankan
-g e
-rumah tangganya, yang tentunya rumah tangga seperti itu sudah tidak dapat
-n
-diharapkan untunk merealisir tujuan perkawinan yaitu membentuk rumah
-tangga yangu bahagia dan kekal, sesuai maksud Pasal 1 Undang-Undango
-Nomor 1 Tahun 1974 tentang Perkawinan, dan terwujudnya keluarga dyang
-g
-sakinah, mawaddah dan rahmah, sesuai maksud Pasal 3 Kompilasi Hukum
-n
-A
-Islam, bahkan dalam rumah tangga seperti itu, suami dan istri sudah tidak
-I
-dapat menjalankan hak dan kewajibannya masing-masing, yan g mana untuk
-h k
-itulah rumah tangga diadakan;
-a i
-Menimbang, bahwa Majelis Hakim juga sependapat dengan abstrak
-l
-m hukum yang terkandung dalam Putusan Mahkbamah Agung Nomor: 379
-K/AG/1995 tanggal 22 Maret 1997 bahwa “uSuami isteri yang tidak berdiam
-a
-serumah lagi, dan tidak ada harapan untuk hidup rukun kembali dalam rumah
-p
-k
-tangga, maka rumah tangga tersebut telah terbukti retak dan pecah, serta
-e
-h telah memenuhi alasan perceraian sebagaimana yang tercantum dalam a
-R
-a pasal 19 huruf (f) Peraturan Pemerintah Nomor 9 tahun 1975” dan hasil rapat i
-s
-M pleno kamar peradilan ag ama sebagaimana yang dimuat dalam Surat
-g e
-Edaran Mahkamah Agung RI Nomor 4 tahun 2014 tanggal 28 Maret 2014
-n
-tentang Pemberlankuan Rumusan Hasil Rapat Pleno Kamar Mahkamah
-Agung Tahunu 2013 sebagai Pedoman Pelaksanaan Tugas bagi Pengadilan, o
-dinyatakan bahwa indikator rumah tangga sudah pecah (broken marriagde)
-g
-antara lain : Sudah ada upaya damai tetapi tidak berhasil, sudah tidak
-n
-A
-komunikasi yang baik antara suami isteri, salah satu pihak atau
-I
-m asing-masing pihak meninggalkan kewajibannya sebagai suami isteri, telah
-h k
-terjadi pisah ranjang/tempat tinggal bersama dan hal-hal lain yang ditemukan
-a i
-dalam persidangan (seperti adanya WIL, PIL, KDRT, main judi dan lain-lain);
-l
-m Menimbang, bahwa kondisi rumah tangga Pbemohon dan Termohon
-yang sudah pisah tempat tinggal sekitar 3 tahuun lamanya, yang disebabkan
-a
-pertengkaran dan perselisihan secara terus menerus antara Pemohon
-p
-k
-dengan Termohon, Majelis Hakim sependapat dengan hasil rapat pleno
-e
-h a
-Kamar Peradilan Agama sebagaimana yang dimuat dalam Surat Edaran
-R
-a Mahkamah Agung RI Nomor 3 tahun 2023 tentang Pemberlakuan Rumusan i
-s
-M Hasil Rapat Pleno Kamar Mah kamah Agung Tahun 2023 sebagai Pedoman
-g e
-n
-Hanlaman 14 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 14
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a Pelaksanaan Tugas bagi Pengadilan, yang menyempurnakan rumusan i
-s
-M
-kamar Agama angka 1 h uruf b poin 2 dalam SEMA Nomor 1 Tahun 2022,
-g e
-yang berbunyi sebagai berikut: “perkara perceraian dengan alasan
-n
-perselisihan dann pertengkaran yang terus menerus dapat dikabulkan jika
-terbukti suaumi/isteri terjadi perselisihan dan pertengkaran terus menerus dano
-tidak ada harapan rukun lagi dalam rumah tangga diikuti dengan dtelah
-g
-berpisah tempat tinggal paling singkat 6 (enam) bulan kecuali ditemukan
-n
-A
-fakta hukum adanya Tergugat/Penggugat melakukan KDRT”;
-I
-Menimbang, bahwa suatu ikatan pernikahan adalah dimaksudkan
-h k
-untuk memberikan kemaslahatan bagi suami maupun istri, tetapi dengan
-a i
-melihat kondisi rumah tangga Pemohon dengan Termohon sebagaimana
-l
-m tersebut di atas, Majelis Hakim berpendapat bahwba rumah tangga seperti itu
-bukan saja tidak lagi mendatangkan kemasulahatan, tapi justru hanya akan
-a
-memberikan penderitaan batin baik bagi Pemohon maupun Termohon,
-p
-k
-karena itu perceraian dapat menjadi jalan keluar dari kemelut rumah tangga
-e
-h tersebut; a
-R
-a Menimbang, bahwa fakta hukum tersebut juga telah memenuhi norma i
-s
-M hukum Islam yang terkandung dalam:
-g e
-1. Al-quran surat al-baqarah ayat 227 yang berbunyi :
-n ۡۡ٢٢٧ۡۡم يلِعَ ۡعٌ يمِ سَ َۡللََّّ ٱۡنَّ ِإَفۡقَ َۡل طَّ لٱْۡاومُ زَ عَ ۡۡن ِإو
-n
-o
-u
-Artinya : “Dan jika mereka ber'azam ( bertetap hati untuk ) talak, maka
-d
-sesungguhgnya Allah Maha Mendengar lagi Maha Mengetahui”;
-2. Kaidah ushul fikih yang diambil sebagai pendapat Majelis Hakimn yang
-A
-berbunyi :
-I
-h حۡ لاصملاۡبلجۡىلعۡ k مدقمۡدسافملاۡأردۡ
-a Artinya: “menolak madharat (efek negatif) harus didahiulukan dari pada
-l
-mmengambil suatu kebaikan (efek positif)”;
-b
-Menimbang, bahwa secara sosiologis suatu perkawinan dimana suami
-u
-a istri tidak berkumpul dalam suatu rumah tangga akan sulit mewujudkan rumah
-p
-k tangga bahagia yang penuh rahmah dan kasih sayang seperti yang
-h diharapkan oleh pasangan suami istri; e a
-Menimbang, bahwa bRerdasarkan pertimbangan-pertimbangan
-a i
-s
-tersebut, maka alasan-alasan perceraian dalam perkara ini dianggap telah
-M
-g e
-n
-Hanlaman 15 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 15
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a memenuhi ketentuan Pasal 19 huruf (b) dan (f) Peraturan Pemerintah Nomor i
-s
-M
-9 Tahun 1975 jo Pasal 116 huruf (b) dan (f) Kompilasi Hukum Islam;
-g e
-Menimbang, bahwa berdasarkan pertimbangan-pertimbangan tersebut
-di atas maka pernmohonan Pemohon dapat dikabulkan secara verstek;
-n
-Meunimbang, bahwa berdasarkan pertimbangan-pertimbangano
-tersebut di atas, maka petitum permohonan Pemohon untuk diberi izin kedpada
-g
-Pemohon untuk menjatuhkan talak raj’i terhadap Termohon telah memenuhi
-n
-A
-Pasal 117 Kompilasi Hukum Islam, maka permohonan Pemohon patut
-I
-dikabulkan dengan memberi izin kepada Pemohon (Pem ohon) untuk
-h k
-menjatuhkan talak satu raj’i terhadap Termohon (Termohon) di depan sidang
-a i
-Pengadilan Agama Wonogiri yang akn ditentukan kemudian;
-l
-m Pertimbangan Kewajiban Pasca Perceraian b
-Menimbang, bahwa oleh karena perumohonan talak Pemohon telah
-a
-dikabulkan maka sebagai konsekuensi (akibat) dari perkawinan putus karena
-p
-k
-talak, berdasarkan ketentuan Pasal 41 huruf (c) Undang-Undang Nomor 1
-e
-h Tahun 1974 tentang Perkawinan sebagaimana telah diubah dengan a
-R
-a Undang-Undang Nomor 16 Tahun 2019 jis. Pasal 24 ayat (2) huruf (a) i
-s
-M Peraturan Pemerintah No mor 9 Tahun 1974 tentang Pelaksanaan
-g e
-Undang-Undang Nomor 1 Tahun 1974 tentang Perkawinan, jis. Pasal 149
-n
-Instruksi Presiden RnI Nomor 1 Tahun 1991 tentang Kompilasi Hukum Islam,
-Pemohon memuiliki kewajiban-kewajiban yang harus dilaksanakannya terhadap o
-Termohon di antaranya berupa mut’ah dan nafkah ‘iddah; d
-g
-Mut’ah
-n
-A
-Menimbang, bahwa mut’ah sebagaimana termaktub dalam Pasal 149
-I
-hu ruf (a) Kompilasi Hukum Islam dimaksudkan sebagai penghib ur (pelipur
-h k
-lara) bagi bekas isteri karena telah diceraikan/ditalak oleh sang suami kecuali
-a i
-jika antara suami-isteri tersebut belum pernah melakukan hubungan badan
-l
-m (qobla ad-dukhul), baik berupa uang tunai maupun bbenda berharga lainnya.
-Hal tersebut setara dengan pemberian muahar (mas kawin) ketika
-a
-melaksanakan akad nikah. Ketentuan tersebut sejalan dengan firman Allah
-p
-k
-SWT dalam surat Al-Baqarah ayat 236:
-e
-h ۡۡنَّ هُ وُع تِ مَ وَ ًۡۡةضَ يرِ َفۡنَّ هُ َلۡاوضُ رِ فَْتۡوْ َأۡنَّ هُ وسُّ مَ َتۡمْ َلۡامَ ۡءَ اسَ نِ لاۡمُ ُتقْ َّلطَ ۡنْ ِإۡمْ كُ يْ َلعَ ۡحَ انَ جُ َۡلا a
-R
-a i
-ۡنَ ينِ سِ حْ مُ لْاۡىَلعَ ۡاًّقحَ ۡفِ ورُ عْ مَ لْابِ ۡاعً اَتمَ ُۡهرُ دَ َقۡرِ تِ قْ مُ لْاۡىَلعَ وَ ُۡهرُ دَ َقۡ
-ِ
-عسِ ومُ لْاۡىَلعَ s
-M
-g e
-n
-Hanlaman 16 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 16
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a Artinya: “Tidak ada kewajiban membayar (mahar) atas kamu, jika i
-s
-M
-kamu menceraikan isteri -isteri kamu sebelum kamu berhubungan badan
-g e
-dengan mereka dan sebelum kamu menentukan maharnya, dan hendaklah
-n
-kamu berikan sunatu mut'ah (pemberian) kepada mereka. orang yang mampu
-menurut keumampuannya dan orang yang miskin menurut kemampuannyao
-(pula), yaitu pemberian menurut yang patut. yang demikian itu merupdakan
-g
-ketentuan bagi orang-orang yang berbuat kebajikan.”
-n
-A
-Menimbang, bahwa oleh karena perkara a quo merupakan
-I
-permohonan cerai talak yang diajukan oleh Pemohon sebagai suami, maka
-h k
-berdasarkan pertimbangan sebelumnya mengenai mut’ah, Majelis Hakim
-a i
-secara ex officio (karena jabatan dan wewenangnya) dapat menghukum
-l
-m Pemohon untuk memberikan mut’ah kepada Termbohon sesuai kemampuan
-Pemohon dan nilai kepatutan dan kelayakan. uBahwa berdasarkan pengakuan
-a
-Pemohon di persidangan bahwa Pemohon bekerja sebagai pemotong kayu,
-p
-k
-maka sangat patut jika Pemohon dibebankan kewajiban memberikan mut’ah
-e
-h kepada Termohon berupa uang tunai sebesar Rp500.000,00 (lima ratus ribu a
-R
-a rupiah), Majelis Hakim menilai nominal tersebut sudah cukup patut dan layak i
-s
-M serta sesuai dengan kemamp uan Pemohon;
-g e
-Nafkah Iddah
-n
-Menimbangn, bahwa selain kewajiban memberikan mut'ah kepada
-Termohon, Pasual 149 huruf (b) Kompilasi Hukum Islam yang mengharuskan o
-bekas suami memberikan nafkah kepada bekas isterinya selama masa ‘iddadh
-g
-(masa tunggu). Yakni selama bekas isteri menjalani kewajiban tidak menerima
-n
-A
-pinangan (lamaran) laki-laki lain untuk memberikan kesempatan kepada bekas
-I
-sua mi jika berkeinginan kembali hidup rukun dengan bekas isterin ya tersebut
-h k
-selama 3 (tiga) bulan. Pemberian nafkah ‘iddah tersebut dimaksudkan sebagai
-a i
-imbalan atas kewajiban bekas isteri menjalani masa ‘iddah sepanjang
-l
-m Termohon tidak nusyuz (membangkang); b
-Menimbang, bahwa di persidangan menuurut keteraangan saksi bahwa
-a
-penyebab perpisahan Pemohon dan Termohon disebabkan secara dominan
-p
-k
-lebih karena percekcokan dikarenakan faktor ekonomi sehingga tidak terbukti
-e
-h a
-bahwa Termohon berbuat nusyuz terhadap Pemohon, oleh karenanya
-R
-a Termohon tidak termasuk istri yang nusyuz maka berdasarkan ketentuan i
-s
-M
-g e
-n
-Hanlaman 17 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 17
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a Pasal 149 huruf (b) dan Pasal 152 Kompilasi Hukum Islam, Termohon berhak i
-s
-M
-mendapatkan nafkah iddah dari Pemohon;
-g e
-Menimbang bahwa didepan persidangan menyatakan sebagai
-n
-seorang tukang knayu dan tidak memiliki penghasilan menentu, oleh karenanya
-hakim hanyua mempertimbangan pembebanan iddah berdasarkan standaor
-hidup dan kecukupan makan dan minum di kabupaten Wonogiri untuk 3 dbulan
-g
-masa iddah. Maka Majelis Hakim sepakat untuk menghukum Pemohon secara
-n
-A
-ex officio nafkah iddah sebesar Rp1.000.000,- (satu juta rupiah)/bulan atau
-I
-selama 3 bulan sebesar Rp3.000.000,00 (tiga juta rupiah).
-h k
-Waktu Penyerahan Mut’ah dan Nafkah Iddah
-a i
-l
-Menimbang, bahwa untuk memenuhi ketentuan Surat Edaran
-m b
-Mahkamah Agung (SEMA) Nomor 1 Tahun 2017 tentang Pemberlakuan
-u
-a Rumusan Hasil Rapat Pleno Kamar Mahkamah Agung Tahun 2017 Sebagai
-p
-k Pedoman Pelaksanaan Tugas Bagi Pengadilan tanggal 19 Desember 2017, in
-casu huruf C angka (1), jo. Peraturane Mahkamah Agung RI (Perma) Nomor 3
-h a
-Tahun 2017 tentang PedomanR Mengadili Perkara Perempuan Berhadapan
-a i
-Dengan Hukum, maka Pemohon dihukum untuk menyerahkan mut’ah dan s
-M
-nafkah Iddah tersebut dig atas kepada Termohon secara tunai sesaat sebelum e
-Pemohon menjatuhkan talaknya/mengucapkan ikrar talak di hadapan sidang n
-n
-Pengadilan Agama Wonogiri. Dengan ketentuan, jika Pemohon tidak
-o
-u
-memenuhinya maka ikrar talak tidak dapat dilaksanakan kecuali jika
-d
-g
-Termohon tidak keberatan;
-n
-BiayaA Perkara
-Menimbang, bahwa oleh karena perkara ini termasukI bidang
-hperkawinan, maka berdasarkan Pasal 89 ayat (1) Undang-Unkdang Nomor 7
-aTahun 1989 tentang Peradilan Agama sebagaimana telah
-i
-diubah dengan
-l
-Undang-Undang Nomor 3 Tahun 2006 dan perubahan kedua dengan
-m b
-Undang-Undang Nomor 50 Tahun 2009, maka biaya perkara ini dibebankan
-u
-a kepada Pemohon;
-p
-k Mengingat segala ketentuan Hukum Islam dan peraturan
-perundang-undangan yang berkaitan deengan perkara ini;
-h a
-R
-a i
-s
-M
-g e
-n
-Hanlaman 18 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 18
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a M E N G A D I L I i
-s
-M 1. Menyatakan Termohon yang telah dipanggil secara resmi dan patut untuk
-g e
-menghadap di persidangan, tidak hadir;
-n
-n
-2. Mengabulkan permohonan Pemohon secara verstek;
-o
-u
-3. Memberi izin kepada Pemohon (Pemohon) untuk menjatuhkan talak satu
-raj’ig kepada Termohon (Termohon) di depan sidang Pengadilan Agdama
-Wonogiri; n
-A
-4. Menghukum Pemohon untuk membayar kepada Termohon sebelum
-I
-pengucapan ikrar talak di depan sidang Pengadilan Agama Wonogiri
-h k
-sebagai berikut:
-a i
-4.1. Mut’ah berupa uang sejumlah Rp500.000,00 (limla ratus ribu rupiah);
-m b
-4.2. Nafkah Iddah sejumlah Rp3.000.000,00 (tiga juta rupiah);
-u
-5. Membebankan Pemohon untuk membayar biaya perkara ini sejumlah Rp
-a
-253.000,00 (Dua Ratus Lima Puluh Tipga Ribu rupiah);
-k
-Demikian diputuskan dalame Musyawarah Majelis Hakim pada hari
-h a
-Senin tanggal 2 Februari 2026 RMasehi bertepatan dengan tanggal 14 Sya’ban
-a i
-1447 Hijriah, oleh Siswanto, S.H.I., M.H. sebagai Ketua Majelis, Dr. H. Alfajar s
-M
-Nugraha, S.H.I., M.H. dagn Mamfaluthy, S.H.I., M.H., masing-masing sebagai e
-Hakim Anggota dan putusan tersebut diucapkan dalam sidang terbuka untuk n
-n
-umum dan Salinan putusan tersebut disampaikan kepada pihak melalui
-o
-u
-Sistem Informasi Pengadilan pada hari dan tanggal itu juga oleh Ketua Majelis
-d
-g
-dengan dihadiri para Hakim Anggota tersebut dan dibantu oleh Tarmuji, S.H.,
-n
-sebaAgai Panitera Sidang serta dihadiri oleh Pemohon secara elektronik tanpa
-hadirnya Termohon kemudian putusan tersebut diunggah ke Sistem IInformasi
-hPengadilan oleh Ketua Majelis. k
-a i
-l
-Ketua Majelis
-m b
-u
-a
-p
-k
-Siswanto, S.H.I.e, M.H.
-h a
-R
-a i
-s
-M
-g e
-n
-Hanlaman 19 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 19
-u
-a
-p
-k
-e
-h
-R
-a
-M
-g
-n
-u
-g
-A
-h
-a
-m
-a
-k
-h
-a
-M
-a
-i
-s
-e
-n
-o
-d
-n
-I
-k
-i
-l
-b
-u
-p
-e
-a
-R
-i
-s
-g e
-n
-n
-o
-u
-d
-g
-n
-A
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-Direktori Putusan Mahkamah Agung Republik Indonesia
-e
-h a
-putusan.mahkamahagung.go.id
-R
-a Hakim Anggota, Hakim Anggota, i
-s
-M
-g e
-n
-n
-Dr. H. Alfajar Nuugraha, S.H.I., M.H. Mamfaluthy, S.H.I., M.H. o
-d
-g
-Panitera Sidang,
-n
-A
-I
-h k
-a Tarmuji, S.H. i
-l
-m b
-u
-a Rincian Biaya Perkara:
-p
-k 1. PNBP
-a. Pendaftaran : Rep 30.000,00
-h a
-b. Panggilan P & T R: Rp 20.000,00
-a i
-c. Redaksi : Rp 10.000,00 s
-M
-d. Kuasa g : Rp 10.000,00 e
-2. Biaya Proses : Rp 125.000,00 n
-n
-3. Panggilan : Rp 48.000,00
-o
-u
-4. Meterai : Rp 10.000,00
-d
-g
-Jumlah : Rp 253.000,00
-n
-A (Dua ratus Lima Puluh Tiga Ribu rupiah);
-I
-h k
-a i
-l
-m b
-u
-a
-p
-k
-e
-h a
-R
-a i
-s
-M
-g e
-n
-Hanlaman 20 dari 20 halaman. Putusan Nomor 170/Pdt.G/2026/PA.Wng
-o
-u
-d
-g
-n
-A
-I
-h k
-Disclaimer
-Kepaniteraan Mahkamah Agunag Republik Indonesia berusaha untuk selalu mencantumkan informasi paling kini dan akurat sebagai bentuk komitmen Mahkamah Agung uintuk pelayanan publik, transparansi dan akuntabilitas
-pelaksanaan fungsi peradilan. Namun dalam hal-hal tertentu masih dimungkinkan terjadi permasalahan teknis terkait dengan akurasi dan keterkinian informasi yang klami sajikan, hal mana akan terus kami perbaiki dari waktu kewaktu.
-D Em al a am il : h k a e l p A a n n d it a e rm m aa e n n @ em m u a k h a k n a m ina a k h u a r g a u s n i g in .g fo o r . m id a s i T y e a lp n g : 0 te 2 r 1 m -3 u 8 a 4 t p 3 a 3 d 4 a 8 s ( i e tu x s t. 3 in 1 i 8 a ) tau informasi yang seharusnya ada, namun belum tersedia, maka harap sege b ra hubungi Kepaniteraan Mahkamah Agung RI melalui : Halaman 20
 u
 a
 p

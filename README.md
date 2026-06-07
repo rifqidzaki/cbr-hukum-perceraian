@@ -1,5 +1,10 @@
 # Case-Based Reasoning (CBR) untuk Analisis Putusan Pengadilan
 
+![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status: Completed](https://img.shields.io/badge/Status-Completed-success.svg)
+![Algorithm: TF-IDF & SVM](https://img.shields.io/badge/Algorithm-TF--IDF%20%7C%20SVM-orange.svg)
+
 Sebuah sistem cerdas berbasis penalaran kasus (*Case-Based Reasoning*) yang dibangun untuk menganalisis dokumen hukum, meliputi Sengketa Perdata Agama (Tingkat Pertama, Banding, Kasasi, hingga Peninjauan Kembali). Proyek ini memprediksi hasil akhir suatu gugatan baru dengan cara mengekstraksi dan menemukan (*retrieval*) putusan terdahulu yang memiliki kemiripan masalah tertinggi, lalu menggunakan solusi dari kasus lama tersebut sebagai landasan prediksi (*reuse*).
 
 Proyek ini dibangun untuk mendemonstrasikan implementasi gabungan **Natural Language Processing (NLP)** dan algoritma klasik Machine Learning yang *lightweight*, *explainable*, dan efisien.
@@ -108,6 +113,15 @@ Mengingat pengujian SVM di atas masih rawan terhadap bias *In-Sample* karena uku
 * **F1-Score**: 73.61%
 
 > *Catatan Analitik:* Akurasi 80.64% adalah skor evaluasi **Real-World** yang sangat valid dan jujur (tidak bias overfitting). Model CBR berhasil memprediksi secara dinamis untuk ke-62 kasus satu per satu, di mana tiap kasus dicocokkan sebagai *query* baru terhadap sisa 61 *knowledge base*.
+
+### Visualisasi Evaluasi Performa
+Berikut adalah grafik performa prediksi sistem secara riil saat dites menggunakan 62 iterasi LOOCV:
+
+<p align="center">
+  <img src="data/eval/loocv_confusion_matrix.png" alt="LOOCV Confusion Matrix" width="45%">
+  &nbsp; &nbsp;
+  <img src="data/eval/loocv_vs_insample.png" alt="In-Sample vs LOOCV Comparison" width="45%">
+</p>
 
 ### Kelebihan Pendekatan Saat Ini:
 1. **Ekstraksi Tangguh (Robust)**: Skrip Regex terbaru tahan terhadap anomali teks vertikal (watermark) hasil ekstraksi PDF, menangani anonimitas nama pihak secara pintar, serta memastikan Amar Putusan "MENGADILI" yang ditarik adalah putusan level akhir (mengatasi false positive "dikabulkan" pada dokumen Kasasi).
